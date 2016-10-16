@@ -1,2 +1,2 @@
 # basicexpresswebapp
-A basic web app using Node, Express, Bootstrap, Jade and Nodemailer. 
+A basic web app using Node.js, Express, Bootstrap, Jade and Nodemailer. 
